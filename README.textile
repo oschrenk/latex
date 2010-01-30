@@ -1,0 +1,15 @@
+h1. README
+
+h2. Notes
+
+You might also be interested in small notes I keep about "Latex on OS X":http://github.com/oschrenk/notes/blob/master/tex.textile
+
+h2. Disclaimer
+
+The templates within are free to use and distribute within in the limits of the copyrights of used material (such as fonts for example).
+
+The templates should, but might not compile on your system. Fonts used in the above templates are _not_ included in the downloads and must be already installed on your system. 
+
+h2. Thanks
+
+"Dario Taraborelli":http://nitens.org/taraborelli/home" for the inspirational work on the "academic CVs in Latex":http://nitens.org/taraborelli/cvtex. The really got me interested in working with "XeTex":http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=XeTeX and "FontSpec":http://www.ctan.org/tex-archive/macros/xetex/latex/fontspec/

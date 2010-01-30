@@ -1,0 +1,7 @@
+h1. README
+
+The fonts within this directory are under their own license. Please respect them and their repspective owners.
+
+h2. Usage
+
+Xetex needs the fonts to be installed. If Xetex can't find the correct fonts please make sure that they are installed and you use the correct name. If they stil don't work you might want to try to empty the font cache.

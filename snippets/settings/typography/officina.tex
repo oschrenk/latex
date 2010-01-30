@@ -1,0 +1,21 @@
+%------------------------------------
+% in part taken from Dario Taraborelli
+% Typesetting your academic CV in LaTeX
+%------------------------------------
+
+\usepackage{fontspec} 
+
+% FONTS
+\defaultfontfeatures{Mapping=tex-text} % converts LaTeX specials (``quotes'' --- dashes etc.) to unicode
+\setromanfont [Ligatures={Common}, SmallCapsFont={OfficinaSerITC-BookSC}, BoldFont={OfficinaSerITC-BoldOS}, ItalicFont={Officina Serif ITC Book Italic OS}]{Officina Serif ITC Book OS}
+\setmonofont[Scale=0.8]{Monaco} 
+\setsansfont [Ligatures={Common}, SmallCapsFont={OfficinaSanITC-BookSC}, BoldFont={OfficinaSanITC-MediumOS}, ItalicFont={Officina Sans ITC Book Italic OS}]{Officina Sans ITC Book OS} 
+% ---- CUSTOM AMPERSAND
+\newcommand{\amper}{{\fontspec[Scale=.95]{StoneSansITC-MediumItalic}\selectfont\itshape\&}}
+
+% HEADINGS
+\usepackage{sectsty} 
+\usepackage[normalem]{ulem} 
+\sectionfont{\sffamily\mdseries\upshape\Large}
+\subsectionfont{\sffamily\mdseries\scshape\normalsize} 
+\subsubsectionfont{\sffamily\mdseries\upshape\normalsize} 

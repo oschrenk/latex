@@ -1,0 +1,15 @@
+h1. README
+
+h2. fontspec.pdf
+
+The documentation of the "FontSpec package":http://www.ctan.org/tex-archive/macros/xetex/latex/fontspec/
+
+h2. listings.pdf
+
+The documentation of the "Listings package":http://www.ctan.org/tex-archive/macros/latex/contrib/listings/
+
+h2. symbol-a4.pdf
+
+bq. This document lists 5913 symbols and the corresponding LATEX commands that produce them. Some of these symbols are guaranteed to be available in every LATEX 2ε system; others require fonts and packages that may not accompany a given distribution and that therefore need to be installed. All of the fonts and packages used to prepare this document—as well as this document itself—are freely available from the "Comprehensive TEX Archive Network":http://www.ctan.org/.
+
+It's available "here":http://www.ctan.org/tex-archive/info/symbols/comprehensive/.

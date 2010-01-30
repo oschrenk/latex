@@ -1,0 +1,13 @@
+h1. README
+
+This template should serve as a very simple yet elegant looking template for papers or articles.
+
+You need "Gentium":http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=Gentium - the typeface for the nations. 
+
+This template is in part based on the work of "Dario Taraborelli":http://nitens.org/taraborelli/home and his latex "curiculum vitae templates":http://nitens.org/taraborelli/cvtex. So thank him.
+
+h2. Disclaimer
+
+I can also only repeat the same disclaimer he gives on his page:
+
+bq. The template is provided for free and without any guarantee that it will correctly compile on your system if you have a non-standard configuration. Fonts used in the template are not included and must be already installed on your system.
