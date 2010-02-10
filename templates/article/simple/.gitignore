@@ -11,6 +11,8 @@
 *.log
 *.nav
 *.out
+*.pdf
+!*/*.pdf
 *.pdfsync
 *.snm
 *.synctex.gz
